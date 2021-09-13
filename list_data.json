@@ -3,32 +3,38 @@
 		{
 			"Name": "Mamas Fish House",
 			"Location": "Paia, HI.",
-			"Rating": "4.8/5",
-			"Comments": "2021"
+			"Rating": "5.0/5",
+			"Comments": "Everything is delicious!"
 		},
 		{
 			"Name": "Canoe House",
 			"Location": "Kamuela, HI",
-			"Rating": "5/5",
-			"Comments": "2021"
+			"Rating": "5.0/5",
+			"Comments": "<3"
 		},
 		{
-			"Name": "Another one.",
-			"Location": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-			"Rating": "BEA Workshop",
-			"Comments": "2021"
+			"Name": "Brazil Cafe",
+			"Location": "Berkeley, CA",
+			"Rating": "4.0/5",
+			"Comments": "Tri trip bowl is the way."
 		},
 		{
-			"Name": "Restaurant Name",
-			"Location": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-			"Rating": "BEA Workshop",
-			"Comments": "2021"
+			"Name": "Amakara",
+			"Location": "Dublin, CA",
+			"Rating": "4.2/5",
+			"Comments": "The crab meat is real!"
 		},
 		{
-			"Name": "Restaurant Name",
-			"Location": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-			"Rating": "BEA Workshop",
-			"Comments": "2021"
+			"Name": "Jupiter",
+			"Location": "Berkeley, CA",
+			"Rating": "4.5/5",
+			"Comments": "Get the Xanthia"
+		},
+		{
+			"Name": "IKEA",
+			"Location": "Emeryville, CA",
+			"Rating": "3.9/5",
+			"Comments": "Meat balls are actually not bad."
 		}
 	]
 }
